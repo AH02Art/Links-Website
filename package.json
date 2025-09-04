@@ -2,11 +2,14 @@
   "name": "links-website",
   "version": "1.0.0",
   "description": "A tiny website for my personal links and media that I use on online platforms.",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node script.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
