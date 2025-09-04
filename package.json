@@ -2,9 +2,9 @@
   "name": "links-website",
   "version": "1.0.0",
   "description": "A tiny website for my personal links and media that I use on online platforms.",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "node script.js"
+    "dev": "node index.js"
   },
   "keywords": [],
   "author": "",

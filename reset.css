@@ -18,6 +18,13 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: inherit;
     font-weight: inherit;
 }
+h1 { color: blue; }
+h2 { color: red; }
+h3 { color: green; }
+h4 { color: yellow; }
+h5 { color: cyan; }
+h6 { color: purple; }
+
 a {
     color: inherit;    
     text-decoration: none;
