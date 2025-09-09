@@ -2,13 +2,11 @@
 :root {
     --white: #ffffff;
     --black: #000000;
-    --blue: #0000ff;
-    --purple: #bf00ff;
-    --blue_hover: #0080ff;
-    --purple_hover: #c042ffff;
-    --lightGrey: rgb(128, 128, 128); /* #808080 */
-    --darkGrey: rgba(51, 51, 51, 0.9); /* #333333 */
-    --darkerGrey: rgba(26, 26, 26, 0.8); /* #1a1a1a */
+    --coolColor: rgb(59, 59, 145);
+    --blue: rgb(0, 0, 255);
+    --grey1: rgb(128, 128, 128);
+    --grey2: rgba(51, 51, 51, 0.9);
+    --grey3: rgba(26, 26, 26, 0.8);
     --header1: clamp(2rem, 6vw, 4rem); /* ~32px to ~64px */
     --header2: clamp(1.5rem, 5vw, 3rem); /* ~24px to ~48px */
     --header3: clamp(1rem, 4vw, 2rem); /* ~16px to ~32px */
@@ -18,7 +16,7 @@
 }
 
 body {
-    background-color: rgb(59, 59, 145);
+    background-color: var(--coolColor);
 }
 
 h1 {
