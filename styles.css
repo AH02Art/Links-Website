@@ -6,26 +6,36 @@
     --purple: #bf00ff;
     --blue_hover: #0080ff;
     --purple_hover: #c042ffff;
-    --lightGrey: #808080;
-    --darkGrey: rgba(51, 51, 51, 0.9);
-    --darkerGrey: rgba(26, 26, 26, 0.8);
-    --bloomtech: #ff4b00;
-    --header1: clamp(2rem, 5vw, 4rem);    /* ~32px to ~64px */
-    --header2: clamp(1.5rem, 4vw, 3rem);  /* ~24px to ~48px */
-    --header3: clamp(1.25rem, 3vw, 2rem); /* ~20px to ~32px */
-    --header4: clamp(1rem, 2.5vw, 1.5rem);/* ~16px to ~24px */
-    --header5: clamp(0.75rem, 2vw, 1rem);/* ~14px to ~16px */
-    --header6: clamp(0.5rem, 1.5vw, 0.5rem);/* fixed, may stay ~8px */
-    --shadow: 2px 2px var(--black), 0 0 40px var(--blue_hover), 0 0 10px var(--blue);
+    --lightGrey: rgb(128, 128, 128); /* #808080 */
+    --darkGrey: rgba(51, 51, 51, 0.9); /* #333333 */
+    --darkerGrey: rgba(26, 26, 26, 0.8); /* #1a1a1a */
+    --header1: clamp(2rem, 6vw, 4rem); /* ~32px to ~64px */
+    --header2: clamp(1.5rem, 5vw, 3rem); /* ~24px to ~48px */
+    --header3: clamp(1rem, 4vw, 2rem); /* ~16px to ~32px */
+    --header4: clamp(0.75rem, 3vw, 1.5rem); /* ~12px to ~24px */
+    --header5: clamp(0.5rem, 2vw, 1rem); /* ~8px to ~16px */
+    --header6: clamp(0.25rem, 1vw, 0.5rem); /* ~4px to ~8px */
 }
 
 body {
     background-color: rgb(59, 59, 145);
 }
 
-h1 { color: blue; }
-h2 { color: red; }
-h3 { color: green; }
-h4 { color: yellow; }
-h5 { color: cyan; }
-h6 { color: purple; }
+h1 {
+    font-size: var(--header1);  
+}
+h2 {
+    font-size: var(--header2);  
+}
+h3 {
+    font-size: var(--header3);  
+}
+h4 {
+    font-size: var(--header4);  
+}
+h5 {
+    font-size: var(--header5);  
+}
+h6 {
+    font-size: var(--header6);  
+}
