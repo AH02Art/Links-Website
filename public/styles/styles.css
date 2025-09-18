@@ -3,6 +3,7 @@
     --white: rgb(255, 255, 255);
     --black: rgb(0, 0, 0);
     --coolColor: rgb(59, 59, 145);
+    --coolColorShadow: rgb(30, 30, 72);
     --blue: rgb(0, 0, 255);
     --grey1: rgb(128, 128, 128);
     --grey2: rgba(51, 51, 51, 0.9);
@@ -44,4 +45,9 @@ h6 {
 
 .test-image {
     max-width: clamp(6rem, 10vw, 12rem);
+}
+
+.papa-divs {
+    margin: var(--header1);
+    background-color: ;
 }
