@@ -49,5 +49,7 @@ h6 {
 
 .papa-divs {
     margin: var(--header1);
-    background-color: ;
+    padding: var(--header3);
+    background-color: var(--coolColorShadow);
+    border-radius: 1em;
 }
