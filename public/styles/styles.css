@@ -19,6 +19,10 @@ body {
     background-color: var(--coolColor);
 }
 
+h1, h2, h3, h4, h5, h6, a, p {
+    color: var(--white);
+}
+
 h1 {
     font-size: var(--header1);  
 }
