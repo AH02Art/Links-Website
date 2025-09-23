@@ -5,6 +5,7 @@
     --coolColor: rgb(59, 59, 145);
     --coolColorShadow: rgb(30, 30, 72);
     --blue: rgb(0, 0, 255);
+    --bHighlight: rgb(51, 173, 255);
     --grey1: rgb(128, 128, 128);
     --grey2: rgba(51, 51, 51, 0.9);
     --grey3: rgba(26, 26, 26, 0.8);
@@ -22,6 +23,11 @@ body {
 
 h1, h2, h3, h4, h5, h6, a, p {
     color: var(--white);
+}
+
+a:hover {
+    color: var(--bHighlight);
+    text-decoration: underline;
 }
 
 h1 {
