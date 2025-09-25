@@ -22,6 +22,9 @@ body {
     background-color: var(--coolColor);
     margin: clamp(2rem, 10vw, 8rem);
 }
+body h1 {
+    margin: var(--header1);      
+}
 
 h1, h2, h3, h4, h5, h6, a, p {
     color: var(--white);
