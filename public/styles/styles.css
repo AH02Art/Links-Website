@@ -18,10 +18,14 @@
 }
 
 body {
-    border-color: var(--blue);
     background-color: var(--coolColor);
+}
+
+#granddaddy-div {
     margin: clamp(2rem, 10vw, 8rem);
 }
+
+
 body h1 {
     margin: var(--header1);      
 }
