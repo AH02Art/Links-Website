@@ -55,6 +55,7 @@ h6 {
 }
 
 header, footer {
+    padding: var(--header1);
     background-color: var(--grey1);
 }
 
