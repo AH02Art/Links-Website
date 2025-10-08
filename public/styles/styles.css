@@ -33,6 +33,7 @@ h1, h2, h3, h4, h5, h6, a, p {
 a:hover {
     color: var(--bHighlight);
     text-decoration: underline;
+    cursor: pointer;
 }
 
 h1 {
@@ -68,4 +69,8 @@ header, footer {
 
 .test-image {
     max-width: clamp(6rem, 10vw, 12rem);
+}
+.test-image:hover {
+    border: red, 1px, solid;
+    cursor: pointer;
 }
