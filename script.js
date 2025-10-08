@@ -1,4 +1,8 @@
-const num1 = 6;
-const num2 = 8;
+const images = document.getElementsByClassName("test-image");
+console.log("images =>", images);
 
-console.log(num1 + num2 === 14);
+for (const image of images) {
+    image.addEventListener("click", function(event) {
+        console.log("test");
+    })
+}
