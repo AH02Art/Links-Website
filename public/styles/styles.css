@@ -22,8 +22,8 @@ body {
 }
 
 #granddaddy-div {
-    display: flex;
-    grid-template-columns: auto auto auto;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
     margin-left: clamp(2rem, 10vw, 8rem);
     margin-right: clamp(2rem, 10vw, 8rem);
 }
@@ -58,7 +58,7 @@ h6 {
 }
 
 header, footer {
-    padding: var(--header1);
+    /* padding: var(--header3); */
     background-color: var(--grey1);
 }
 
