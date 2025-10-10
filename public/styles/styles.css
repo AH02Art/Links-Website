@@ -22,6 +22,8 @@ body {
 }
 
 #granddaddy-div {
+    display: flex;
+    grid-template-columns: auto auto auto;
     margin-left: clamp(2rem, 10vw, 8rem);
     margin-right: clamp(2rem, 10vw, 8rem);
 }
