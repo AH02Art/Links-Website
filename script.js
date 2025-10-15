@@ -6,4 +6,3 @@ for (const index of images) {
         console.log("test");
     })
 }
-
