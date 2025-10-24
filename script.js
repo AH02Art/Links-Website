@@ -6,3 +6,10 @@ for (const index of images) {
         console.log("test");
     })
 }
+
+const items = [
+    "images",
+    "icons",
+    "videos",
+    "other stuff"
+];
