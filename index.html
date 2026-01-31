@@ -53,5 +53,20 @@
         <p>this is the footer</p>
         <h6>version 0.0.1 (in development)</h6>
     </footer>
+    <script>
+        const steamApiKey = "YOUR_STEAM_API_KEY";
+        const steamId = "YOUR_STEAM_ID64";
+
+        const apiUrl = `https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v2/?key=${steamApiKey}&steamids=${steamId}`;
+
+        fetch(apiUrl)
+        .then(response => response.json())
+        .then(data => {
+            const player = data.response.players[0];
+            document.getElementById("username").textContent = player.personaname;
+            document.getElementById("avatar").src = player.avatarfull;
+        })
+        .catch(error => console.error("Error fetching Steam data:", error));
+    </script>
 </body>
 </html>
