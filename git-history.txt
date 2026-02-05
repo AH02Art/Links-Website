@@ -1,0 +1,707 @@
+commit 970b23dd155e7b4d0e4d6d6e0bf714d8dbc953f2
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 31 00:36:16 2026 -0600
+
+    more additional plans
+
+commit e93df4ebf7a81679b120bf5915000d5ce3456aa0
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 31 00:13:43 2026 -0600
+
+    wip
+
+commit 761a86cfaa7da66fea5721b7b295f708daa606df
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 31 00:04:59 2026 -0600
+
+    wip
+
+commit 526145920af0fc5fffdb40298ccdbabcaac7f91b
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 31 00:03:29 2026 -0600
+
+    steam code wip
+
+commit 01434bd0d8508c6ef5818c8d4d7786af2ab0e2e6
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 31 00:01:12 2026 -0600
+
+    steam code wip
+
+commit 86cb1b04ddc1c4890f31b6f19d7b60dea1745efb
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 24 22:36:32 2026 -0600
+
+    wip
+
+commit 5f7a226f79473431f006e84d375eefba47b183f2
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 24 22:35:57 2026 -0600
+
+    wip
+
+commit 3cab6cc5b354120b29d59e50565b445c047262ca
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 24 22:23:53 2026 -0600
+
+    wip
+
+commit 3e197395b1edecd081d3f712a7fd773b110c266e
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Jan 23 23:12:38 2026 -0600
+
+    plans
+
+commit c5100e492d0f8cc1d436031205f1b1bcb76ddeec
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Jan 23 23:12:24 2026 -0600
+
+    plans
+
+commit 0a0737970e527bb069236cb8ca12989c4629ccd2
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Jan 23 23:12:02 2026 -0600
+
+    plans
+
+commit 106aadb768d1e39fc390fd996be93a2f32336b4f
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 17 19:46:58 2026 -0600
+
+    plans
+
+commit 25b2d6536c910d30787e503d11d3239efc6c3dd3
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 17 19:42:18 2026 -0600
+
+    plans
+
+commit e7754ae42855c0ee2c396dbb5bbaa338009f1969
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 17 19:41:38 2026 -0600
+
+    plans
+
+commit 490509717755b05788ffab617f88b3d372373984
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 17 19:40:43 2026 -0600
+
+    plans
+
+commit 82676ceaf714be383a9c1e52ce1060fd21b8f54b
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 17 19:37:50 2026 -0600
+
+    plans
+
+commit 38955f4e4c8bbc7d3113111f0da2aa54b423ab46
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 10 16:37:52 2026 -0600
+
+    wip
+
+commit 1549cf535013af7500a9385007313ad6a1fe5243
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 10 16:37:19 2026 -0600
+
+    wip
+
+commit 987cc1d4bff32e6a325d7f016ccc399bd72156d4
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 10 16:36:18 2026 -0600
+
+    wip
+
+commit dc60d20acb326ec2cda6caaa34e0ee5ee06b2859
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 10 16:35:39 2026 -0600
+
+    wip
+
+commit ddf2fa1ae404aea432c8113f58904a131acc6782
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Jan 10 16:34:36 2026 -0600
+
+    wip
+
+commit 664378cf4c164c623d59ff598d5783c1537f52bb
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Jan 2 15:13:17 2026 -0600
+
+    wip
+
+commit d219ca4a5f204d5d2b73e6f89b434166cb6a2248
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Jan 2 15:13:01 2026 -0600
+
+    wip
+
+commit c97f0f39c86ef8ac8bd0f4b31b79390213ec89cd
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Jan 2 15:11:03 2026 -0600
+
+    wip
+
+commit 8c25cd13221502e55c10db9689b808a81dc89e1e
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Jan 2 15:10:52 2026 -0600
+
+    wip
+
+commit 5990db04ed5e55f84f5419e46b14bcbefa57a40c
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Jan 2 15:10:16 2026 -0600
+
+    wip
+
+commit a156754413a10a3d6814bf5559f1fa533fea687e
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 26 17:53:45 2025 -0600
+
+    2026
+
+commit 00596b256c41052e08f4a997717368b204eaed5c
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 26 17:53:22 2025 -0600
+
+    wip
+
+commit 5b90a6e9c79c586743b359faa0a8452aab7b9666
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 26 17:52:53 2025 -0600
+
+    wip
+
+commit cdf0bd4aa6b01d2c134577a5ac85d09291bf4f95
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 26 17:52:30 2025 -0600
+
+    wip
+
+commit 8156825979ac8fb4f0b4787e17589f49ecd12271
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 26 17:52:07 2025 -0600
+
+    wip
+
+commit d2fcacceab7c160f5bc2160f8bd7f1883fb4f2c5
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 19 16:20:23 2025 -0600
+
+    wip
+
+commit dd7cbb354e39a822505697e2d708bd61f2514075
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 19 16:20:05 2025 -0600
+
+    wip
+
+commit 0c86a7e9825ca95a3eb0646e0f3ecbccfd94f3cb
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 19 16:19:45 2025 -0600
+
+    wip
+
+commit 963d5b2606649b54c68d010e094ab28aa8f91822
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 19 16:18:42 2025 -0600
+
+    wip
+
+commit 1852b4c2d6bf019d24afad3e0367d5b08f5c6330
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Dec 19 16:17:59 2025 -0600
+
+    wip
+
+commit 47c1960fdf4cee890684d553fe7075a137c31429
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Dec 17 11:41:30 2025 -0600
+
+    wip
+
+commit 32afbe9e0a60c79e39658d1ce36cfb2b006f31d8
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Dec 11 16:58:25 2025 -0600
+
+    wip
+
+commit 81f5f130b34126c4945d4adcc31d1cdde66566fc
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Dec 11 16:57:50 2025 -0600
+
+    wip
+
+commit e77ef0ffd5095b8925ba9f495e9c7f41361ec2a5
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Dec 11 16:54:25 2025 -0600
+
+    wip
+
+commit 8132401f8263c47bf6b9d3445789e43f9e5cd92a
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Dec 11 16:53:59 2025 -0600
+
+    wip
+
+commit 18c3ba521e48bbad60a294ef9c57b5be70ef8e00
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Dec 11 16:53:38 2025 -0600
+
+    h6
+
+commit 483f0dbf9dc0a92448c6406678a47037ec7be2d0
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Dec 6 16:17:43 2025 -0600
+
+    h5
+
+commit d06edfa41a7cbd48dfa1ec4d4e9fd79d9f858a6e
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Dec 6 16:17:23 2025 -0600
+
+    h4
+
+commit 698ff2564b4e6c38e579aab2f954badd2529fefa
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Dec 3 16:20:32 2025 -0600
+
+    h3
+
+commit 59bdd15f5c361788636e6e5464ce73a5c9fb6d98
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Dec 3 16:20:04 2025 -0600
+
+    h2
+
+commit bdf7793d872e5a2edd4fd52f55180ae5d1ac2959
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Dec 3 16:19:32 2025 -0600
+
+    h1
+
+commit 31c868fc2c2d0c04b43216746d4a653966341d04
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Nov 29 21:49:23 2025 -0600
+
+    wip
+
+commit 82b3fea995894e812426121ec8fb515b82a428de
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Nov 29 21:48:45 2025 -0600
+
+    wip
+
+commit 2b1aaebb96ceb2fc895e6e81120e8397be8662e1
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Nov 29 21:48:03 2025 -0600
+
+    wip
+
+commit d2520519a7ecd3a87617729fdf4e9ce02b976a11
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sat Nov 29 21:47:30 2025 -0600
+
+    wip
+
+commit f36bc65f4e963863f8eed8889e0cd00d76fec431
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Tue Nov 25 21:09:13 2025 -0600
+
+    wip
+
+commit d51fd0aeb74589fa409d272468278af073bdf565
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Nov 20 17:22:06 2025 -0600
+
+    wip
+
+commit 6183d96efcae6e1f83f60e0c3d6647c986c4e128
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Nov 20 17:21:30 2025 -0600
+
+    wip
+
+commit f4e454ace2563df13a1045a3cfccc97fe23d2ca5
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Nov 20 17:21:01 2025 -0600
+
+    wip
+
+commit 7ae7fb2cbac19f5a371a08b2f64f4444fdc62e76
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Nov 20 17:20:34 2025 -0600
+
+    wip
+
+commit 1eaac72c163529cb17169a3d0d6736a1f93ac5b3
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Nov 20 17:20:01 2025 -0600
+
+    wip
+
+commit c59ec89899cf6f951b7dcf8ea7d6b41136bcfed6
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Nov 20 17:19:22 2025 -0600
+
+    wip
+
+commit 48d70e5e457ad7705bdc264a612352722a64842f
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Nov 14 15:08:08 2025 -0600
+
+    wipu
+
+commit 5d47a7613087ec4d967120e24e7557561d5c2bb0
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Nov 14 15:07:03 2025 -0600
+
+    wip
+
+commit db6641ee417f0197c5d742d7b0233adb620bbca0
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Nov 12 15:23:49 2025 -0600
+
+    wip
+
+commit 2433b54783db5091bfde552e1aadcd7e9d8e21a2
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Nov 12 15:23:33 2025 -0600
+
+    wip
+
+commit 0fad9a04ae1b11807829b2fdc4e16a53217d5a07
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Nov 12 15:22:08 2025 -0600
+
+    wip
+
+commit c2e39cb53274234014a873d49847c9e16ea46e73
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Nov 7 13:03:23 2025 -0600
+
+    wip
+
+commit ccd5bd6d3211d4f60e84a903cae75be75e803bfb
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Nov 7 13:02:24 2025 -0600
+
+    wip
+
+commit eb8fbe3b8fbc4e7decb9f46ba02776584a3927e4
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Nov 7 13:01:13 2025 -0600
+
+    wip
+
+commit c9f2c5cafa22f10ee78056c79b7e8b32c3511b66
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Nov 7 12:59:09 2025 -0600
+
+    wip
+
+commit bd4fb240896f52cbfc7e57ce19e4fcbd7be536ef
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Nov 7 12:54:29 2025 -0600
+
+    wip
+
+commit 304da0b8ed1b060d41f673771af5c967b545c8af
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 31 11:58:58 2025 -0500
+
+    wip
+
+commit 57308c2f90bf5fdaaf48280b300bfe36c3777384
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 31 11:58:17 2025 -0500
+
+    wip
+
+commit d788889ba72031da898023c56a1e135873581eda
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 31 11:54:42 2025 -0500
+
+    halloweener
+
+commit 5a8829d21fd69b18bdeaa552fd91b6a53e87e465
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 31 11:53:51 2025 -0500
+
+    wip
+
+commit b9ff259f4f3df90511092823d5558cf5a6d3674b
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 31 11:52:50 2025 -0500
+
+    wip
+
+commit 370d5c69af53d334b239e3d18bf5906f7e92a828
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 24 12:41:48 2025 -0500
+
+    wip
+
+commit 4eee4f0d175c8c0349d772a3f385c89da1b6bb8a
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 24 12:28:22 2025 -0500
+
+    wip
+
+commit 4f9c9e2ea7d39636d5469821c23fb0dfe75dd836
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 24 12:21:54 2025 -0500
+
+    wip
+
+commit ef976bb21fc8043b3c48ea3667ba3937308e3dd6
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 24 12:21:03 2025 -0500
+
+    wip
+
+commit 9953fc076f0fb2a7c06fde5a15a084ddec1dbfd0
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 24 12:16:03 2025 -0500
+
+    wip
+
+commit 72d29b164489619a9b42f04ad9453eeb937c947b
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 24 12:12:41 2025 -0500
+
+    wip
+
+commit 9817b5edd497601a78cb079e48f4083eaf4c3128
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 17 16:14:57 2025 -0500
+
+    added discord image
+
+commit 65cd835963d4009e25e51a36f2abaaccacbba9de
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 17 16:14:16 2025 -0500
+
+    added steam image
+
+commit 38c560b6f10e68deda581bc5a69ffab93152e848
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Oct 15 13:16:54 2025 -0500
+
+    wip
+
+commit 360fa50b008a80d5974657ee179a05ad68a05500
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Tue Oct 14 13:38:37 2025 -0500
+
+    added another title with image ideas
+
+commit b831f1567e45e7dd1b02f98c73a182f2e8c01c2c
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Tue Oct 14 13:28:47 2025 -0500
+
+    wip
+
+commit bb75a6f5ecc483d91417d8287938d3665e033c1d
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 10 13:42:26 2025 -0500
+
+    wip
+
+commit a07f46c3ad0f8b17d48eedabd9249c49f62c9a71
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 10 13:29:22 2025 -0500
+
+    wip
+
+commit 258f2185ce30b5eb61033ccbc00ebf9038e278e8
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Oct 8 16:50:09 2025 -0500
+
+    wip
+
+commit 240a52f22786994dc1b5c3db060fcdd99ca7352a
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Oct 8 16:23:51 2025 -0500
+
+    wip
+
+commit b6527fed371b56111afaf2c1536c3624b92bf681
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Sun Oct 5 10:13:52 2025 -0500
+
+    disregarded nabitch's picture
+
+commit d4cedf144329e1cd25e3cbf0b700a31263d2b5a6
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 3 12:20:07 2025 -0500
+
+    wip :D
+
+commit d4a2129d691143f05c36111599d0c2e721880bd0
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Oct 3 12:18:33 2025 -0500
+
+    wip :D
+
+commit 1b2b0f27546be6da8666efe5f6782351b0419832
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Oct 2 13:01:03 2025 -0500
+
+    wip
+
+commit a240a0995bfaba628de963655aa56f6902f09ba6
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Oct 2 12:58:40 2025 -0500
+
+    wip
+
+commit 88e9551ebe520bc427758aba69e081e9a973b3d9
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Oct 2 12:53:11 2025 -0500
+
+    wip
+
+commit 0960057f682d2da3d41e1c0673103968cf38997e
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Sep 26 16:39:51 2025 -0500
+
+    wip
+
+commit 9b72caeff16858e0c479f85ea428f064bd538787
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Sep 25 16:09:01 2025 -0500
+
+    added simple title
+
+commit 2a6d8b0cd585d26d849c51e182fc22921a8233ab
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Sep 24 13:27:33 2025 -0500
+
+    some small updates
+
+commit 427dfe759f3e3d0dafabfb37172a8dd39635dc4c
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Tue Sep 23 15:36:09 2025 -0500
+
+    wip
+
+commit f14099a7c70ce79a7aeb8c13531000bf785fdd79
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Tue Sep 23 15:07:17 2025 -0500
+
+    wip
+
+commit e397f1e368702a47744ebd5392ed4ded959cb5f7
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Sep 18 17:03:54 2025 -0500
+
+    wip
+
+commit 0ca62f74dcd21382ab6cde9dc644f5b8aa4a5371
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Sep 18 16:54:02 2025 -0500
+
+    wip
+
+commit 1e92dfa08c8b00f4688bb5f67d29989d01480139
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Sep 18 16:35:07 2025 -0500
+
+    wip
+
+commit edff0c02e47fbe4a7fcde6147fc36b2394be2b46
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Sep 18 16:28:54 2025 -0500
+
+    editing links
+
+commit af190159096bcaa3d0475a37cb3da876eccafc6b
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Sep 12 16:07:01 2025 -0500
+
+    wip
+
+commit dbdeccdc3bf1862766daec0def8239bdadc6ba13
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Sep 12 16:05:36 2025 -0500
+
+    testing some stuff
+
+commit 60ed73e34bfe6a660bdb5c5f8811b3c67a92efdb
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Sep 10 14:09:31 2025 -0500
+
+    cleaning up styles
+
+commit 856d87363c3f4bca2e84b9c7dff3f2f5d4bd2ddb
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Tue Sep 9 14:57:07 2025 -0500
+
+    cleaning up styles
+
+commit cd4404fbc757a5c9d4a21bdbdd169c069f573b37
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Tue Sep 9 14:53:49 2025 -0500
+
+    set up fonts
+
+commit a3244b5f8fd9d3ebb912cd3097952b0f32644a50
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Sep 5 13:15:31 2025 -0500
+
+    setting up
+
+commit a6ab3a091ed6b7e7d111e0f5537dc6e681a2a46d
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Fri Sep 5 13:13:22 2025 -0500
+
+    setting up
+
+commit 6bfa25a48ab44bfab64467175c50333ff7db8ddb
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Sep 4 14:18:09 2025 -0500
+
+    setting up
+
+commit 1ba5d25e790e80f6bc67ac7513fbfe750f32c39c
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Sep 4 14:08:37 2025 -0500
+
+    setting up
+
+commit fcdb8ff1674ec40fc23417a576f1caf731f0a9e2
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Sep 4 12:32:09 2025 -0500
+
+    setting up
+
+commit 224277671f0082cea551a09941525a0e181ceea1
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Wed Sep 3 16:24:01 2025 -0500
+
+    setting up
+
+commit 84d6e80b6c2508056758bbe6f78e3ce25591a613
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Aug 28 12:26:27 2025 -0500
+
+    setting up
+
+commit f1ca3411d5d461de6fa4e5fbb39a931e15dd9bc4
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Thu Aug 28 12:02:57 2025 -0500
+
+    basic set-up of website
+
+commit 786e0b274ac4fd3db93415e656fb10bd50ae9b70
+Author: Alex Handley <smithvillescholarsah@gmail.com>
+Date:   Mon Aug 18 15:50:31 2025 -0500
+
+    checking it project is linked
+
+commit 560dc3fb1626cf6802b087494430723f41cbc148
+Author: Alex <142055170+AH02Art@users.noreply.github.com>
+Date:   Mon Aug 18 15:40:08 2025 -0500
+
+    Initial commit
