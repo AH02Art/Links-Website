@@ -34,4 +34,10 @@ app.get("/steam/:id", async (req, res) => {
   }
 });
 
+document
+  .getElementById("discord-connect")
+  .addEventListener("click", () => {
+    console.log("Discord connect clicked");
+  });
+
 app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
