@@ -69,6 +69,31 @@ header, footer {
     border-radius: 1em;
 }
 
+.link-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  background: #1e1f22;
+  color: white;
+}
+
+.link-card img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+
+.link-card button {
+  margin-top: 0.25rem;
+  padding: 0.4rem 0.8rem;
+  border: none;
+  border-radius: 6px;
+  background: #5865f2; /* Discord blurple */
+  color: white;
+  cursor: pointer;
+}
 .test-image {
     display: block;
     margin: auto;
